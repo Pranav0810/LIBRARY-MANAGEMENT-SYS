@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: pranav08101999@gmail.com
+Date: Tue, 09 Jun 2020 18:59:19 -0000
+Message-ID: <159172915917.2120.3045589019994219463@DESKTOP-MRCN7O2>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/5h8-b8961957b79247d6752c/
+
+Your username, in case you’ve forgotten: pranav
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
